@@ -1,0 +1,29 @@
+body{
+    background: rgb(107, 107,241);
+    font: normal 15pt Arial;
+
+}
+header{
+    color: white;
+    text-align: center;
+}
+section {
+    background: white;
+    border-radius:10px; /* comando para arredondar as pontas de um quadrado*/
+    padding:15px;    /*distancia o elemento da das laterais de um quadrado*/
+    width: 500px; /*ajusta o tamanho para menor*/
+    margin:auto;  /*ajuda a centralizar*/
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.336); /* box shadow discreto recomendado */
+
+
+}
+footer {
+    color: white;
+    text-align: center; /*alinha o testo no centro*/
+    font-style: italic; /*coloca a fonte da palavra em italico*/
+}
+div{
+   
+    padding:15px;
+
+}
